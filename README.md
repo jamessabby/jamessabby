@@ -3,7 +3,7 @@
 I'm an aspiring software developer. I'm passionate about building interactive and user-friendly web applications, and I'm always eager to learn new tools and technologies.
 
 ### About Me
-- 🎓 2nd-year BS Computer Engineering student at De La Salle University - Dasmariñas
+- 🎓 3rd-year BS Computer Engineering student at De La Salle University - Dasmariñas
 - 💻 I enjoy building websites using HTML, CSS, JavaScript.
 
 
