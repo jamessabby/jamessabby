@@ -1,25 +1,26 @@
 ## 👋 Hi there! I'm James Sabio
 
-I'm an aspiring software developer currently learning Full Stack Development. I'm passionate about building interactive and user-friendly web applications, and I'm always eager to learn new tools and technologies.
+I'm an aspiring software developer currently learning Full Stack Development through [roadmap.sh](https://roadmap.sh). I'm passionate about building interactive and user-friendly web applications, and I'm always eager to learn new tools and technologies.
 
-### 🚀 About Me
+### About Me
 - 🎓 2nd-year BS Computer Engineering student at De La Salle University - Dasmariñas
-- 💻 I enjoy building websites using HTML, CSS, JavaScript, and Python
-- 🔧 Comfortable using Git and GitHub for version control
+- 💻 I enjoy building websites using HTML, CSS, JavaScript.
+
 
 ### 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS3, Tailwind CSS (learning), JavaScript
-- **Backend (beginner):** Python
-- **Tools:** VS Code, Git, GitHub, Figma, Canva
-- **Currently exploring:** Node.js, React, GitHub Actions
-
-### 📈 Learning Goals
-- Deepen my knowledge in JavaScript and frameworks like React
-- Build full-stack apps with modern tools and best practices
-- Contribute to open-source projects and collaborate with other devs
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+</p>
 
 ### 📫 Let's Connect
-- 📧 Email: [jamesjacobsabio232@gmail.com](mailto:jamesjacobsabio232@gmail.com)
-- 🌐 Portfolio (soon): Coming soon
-- 🔗 LinkedIn: [linkedin.com/in/james-sabio-aa8205312](https://linkedin.com/in/james-sabio-aa8205312)
-- 💼 GitHub: [github.com/jamessabby](https://github.com/jamessabby)
+<p align="left">
+  <a href="mailto:jamesjacobsabio232@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="https://linkedin.com/in/james-sabio-aa8205312"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</p>
+
